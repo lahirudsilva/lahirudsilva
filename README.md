@@ -9,23 +9,22 @@
   </a>
 </div>
 
-
-
+<!-- Activity Widget -->
+<div align="center">
+                <img alt="lahiru de silva's GitHub Stats" height="200em"
+                src="http://github-readme-streak-stats.herokuapp.com?user=lahirudsilva&layout=compact&theme=dark&background=000000" />
+        <img alt="lahiru de silva's GitHub Stats" height="200em"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirudsilva&layout=compact&theme=dark&background=000000" />
+        <br>
+</div>
 
 <!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="lahiru de silva's GitHub Stats"
-                src="http://github-readme-streak-stats.herokuapp.com?user=lahirudsilva&theme=dark&background=000000" />
-        <br>
-       <img alt="lahiru de silva's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirudsilva&layout=compact&theme=vision-friendly-dark" />
-        <br>
-    </p>
-</details>
+<div align="center">
+<h2>Main Tech Stack</h2>
+        
+ <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,gql,python,flask,mysql,mongo,java,spring,git,docker,bash,jest,sass&perline=10" alt="Tech Stack" /> 
+</div>
+
 <br>
 
 
