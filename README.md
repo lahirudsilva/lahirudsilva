@@ -3,7 +3,8 @@
         <samp>&gt; Hey There!, I am Lahiru De Silva
         </samp>
 </h3>
-<div id="badges" align="center">
+
+<div id="badges" align="center">    
   <a href="https://www.linkedin.com/in/lahiru-de-silva-b6635a1ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,4 +28,5 @@
 
 <br>
 
+> checkout my portfolio for more › [lahiru.dev](https://personal-portfolio-fqih6s8h5-typicalcoderr.vercel.app/).
 
