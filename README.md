@@ -23,7 +23,7 @@
 <div align="center">
 <h2>Main Tech Stack</h2>
         
- <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,gql,python,flask,mysql,mongo,java,spring,git,docker,jest,sass&perline=10" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,gql,python,flask,mysql,mongo,java,spring,git,docker,jest,sass&perline=9" alt="Tech Stack" /> 
 </div>
 
 <br>
