@@ -1,6 +1,8 @@
 
-### Hello, I'm **Lahiru** 👋
+### Hi there 👋
 
-I'm a full-stack engineer. 
+I'm **Lahiru De Silva**, a full-stack engineer who loves building products and web applications that impact millions of lives
 
-> You can checkout my portfolio for more › [Lahiru](https://lahiruu.pages.dev/)
+📌 based in Sri Lanka.
+
+> checkout my portfolio for more › [Lahiru](https://lahiruu.pages.dev/)
